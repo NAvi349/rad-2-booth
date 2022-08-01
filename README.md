@@ -7,4 +7,5 @@ State Transition Diagram
 Waveform
 
 ![image](https://user-images.githubusercontent.com/66086031/179691468-9f32e4bb-e2d9-4abf-91c2-140c81f2b593.png)
+![image](https://user-images.githubusercontent.com/66086031/182066823-e114d219-204d-42d4-86ca-45da77920385.png)
 
